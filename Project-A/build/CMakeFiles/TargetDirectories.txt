@@ -1,0 +1,3 @@
+D:/HPC/Project/build/CMakeFiles/rotate_part_a.dir
+D:/HPC/Project/build/CMakeFiles/ALL_BUILD.dir
+D:/HPC/Project/build/CMakeFiles/ZERO_CHECK.dir

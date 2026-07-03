@@ -1,0 +1,25 @@
+# CMake build output
+build/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binaries and intermediates
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+*.lastbuildstate
+*.recipe
+*.cache
+*.deps
+
+# CUDA
+*.device-link.obj
